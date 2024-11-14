@@ -4,15 +4,16 @@ Current repo is only for a learning purpose, review and test before use!
 Interact with Scroll, Symbiotic, Hyperlane, Nitro, Orbiter
 
 Repo is based on open source scroll soft 
+
 Main goal to automate interactions with EVM compatible chains and protocols 
 on EVM and/or L2 layers for Ethereum.
 
 Using this repo you can bridge ETH and lend it to different protocols
-Interact with cross-chain techs like L0, Hyperlane, Nitro, Orbiter 
-Interact with Symbiotic liquid staking/restaking ETH protocol
-Interact with Aave, Layerbank and several DEXes on Scroll ecosystem
-Deploy simple smart contracts
-Deploy and mint your NFT
+   - Interact with cross-chain techs like L0, Hyperlane, Nitro, Orbiter 
+   - Interact with Symbiotic liquid staking/restaking ETH protocol
+   - Interact with Scroll ecosystem (Aave, Layerbank and several DEXes)
+     - Deploy simple smart contracts
+     - Deploy and mint your NFTs
 
 ---
 <h3> How to </h3>

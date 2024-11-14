@@ -457,8 +457,6 @@ async def swap_xyswap(account_id, key, recipient):
     ______________________________________________________
     from_token – Choose SOURCE token ETH, WETH, USDC | Select one
     to_token – Choose DESTINATION token ETH, WETH, USDC | Select one
-
-    Disclaimer - If you use True for use_fee, you support me 1% of the transaction amount
     ______________________________________________________
     all_amount - swap from min_percent to max_percent
     """
@@ -490,7 +488,6 @@ async def swap_xyswap_beth(account_id, key, recipient):
     from_token – Choose SOURCE token ETH, WETH, USDC | Select one
     to_token – Choose DESTINATION token ETH, WETH, USDC | Select one
 
-    Disclaimer - If you use True for use_fee, you support me 1% of the transaction amount
     ______________________________________________________
     all_amount - swap from min_percent to max_percent
     """
@@ -521,7 +518,6 @@ async def swap_xyswap_cbeth(account_id, key, recipient):
     from_token – Choose SOURCE token ETH, WETH, USDC | Select one
     to_token – Choose DESTINATION token ETH, WETH, USDC | Select one
 
-    Disclaimer - If you use True for use_fee, you support me 1% of the transaction amount
     ______________________________________________________
     all_amount - swap from min_percent to max_percent
     """
@@ -757,7 +753,7 @@ async def swap_tokens(account_id, key, recipient):
 
 async def swap_multiswap(account_id, key, recipient):
     """
-    Multi-Swap module: Automatically performs the specified number of swaps in one of the dexes.
+    Multi-Swap module: Automatically performs the specified number of swaps in one of the DEXes.
     ______________________________________________________
     use_dex - Choose any dex: syncswap, skydrome, zebra, xyswap
     quantity_swap - Quantity swaps

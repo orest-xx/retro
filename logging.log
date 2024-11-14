@@ -1,0 +1,9 @@
+2024-11-14 14:40:15.805 | INFO     | __main__:main:69 - Looks like you did not put any wallets, fill accounts.txt with private keys
+2024-11-14 14:40:28.137 | ERROR    | __main__:run_module:51 - Non-hexadecimal digit found
+2024-11-14 14:40:28.137 | INFO     | utils.sleeping:sleep:10 - 💤 Sleep 27 s.
+2024-11-14 14:40:50.712 | ERROR    | __main__:run_module:51 - Non-hexadecimal digit found
+2024-11-14 14:40:50.712 | INFO     | utils.sleeping:sleep:10 - 💤 Sleep 13 s.
+2024-11-14 14:41:00.989 | INFO     | __main__:main:69 - Looks like you did not put any wallets, fill accounts.txt with private keys
+2024-11-14 14:41:13.199 | ERROR    | __main__:main:69 - Looks like you did not put any wallets, fill accounts.txt with private keys
+2024-11-14 14:52:03.353 | ERROR    | __main__:main:70 - Looks like you did not put any wallets, fill accounts.txt with private keys
+2024-11-14 14:52:08.810 | ERROR    | __main__:main:70 - Looks like you did not put any wallets, fill accounts.txt with private keys
